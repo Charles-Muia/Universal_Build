@@ -56,7 +56,7 @@
                                                 <li><a href="#">contact us</a></li>
                                             </ul>
                                         </nav>
-                                <img src="Gallery/3781082.png" class="menu-icon" onclick="togglemenu()" alt="">
+                                <img src="Gallery/Menu_Icon.png" class="menu-icon" onclick="togglemenu()" alt="">
                             </div>
 
                 <hr>
@@ -227,19 +227,85 @@
                 </section>
 
 
-                <br><hr><br>
+                <br><hr>
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<footer part><<>>>>>>>>><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
                 <div class="foot">
                         <section class="footer-section">
-                                <div class="footer">
-                                    <a href="#">Home</a>
-                                    <a href="#">About us</a>
-
+                              <div class="row">
+                                  <div class="footer-col">
+                                      <h4> Club </h4>
+                                            <ul>
+                                                <li><a href="#">home</a></li>
+                                                <li><a href="#">about us</a></li>
+                                                <li><a href="#">our work</a></li>
+                                                <li><a href="#">faqs</a></li>
+                                                <li><a href="#">contact us</a></li>
+                                            </ul>
+                                  </div>
+                                  <div class="footer-col">
+                                      <h4> Club </h4>
+                                      <ul>
+                                          <li><a href="#">home</a></li>
+                                          <li><a href="#">about us</a></li>
+                                          <li><a href="#">our work</a></li>
+                                          <li><a href="#">faqs</a></li>
+                                          <li><a href="#">contact us</a></li>
+                                      </ul>
+                                  </div>
+                                  <div class="footer-col">
+                                      <h4> Club </h4>
+                                      <ul>
+                                          <li><a href="#">home</a></li>
+                                          <li><a href="#">about us</a></li>
+                                          <li><a href="#">our work</a></li>
+                                          <li><a href="#">faqs</a></li>
+                                          <li><a href="#">contact us</a></li>
+                                      </ul>
+                                  </div>
+                                  <div class="footer-col">
+                                      <h4> Our Location </h4>
+                                      <ul>
+                                          <li><a href="#">home</a></li>
+                                          <li><a href="#">about us</a></li>
+                                          <li><a href="#">Manchester</a></li>
+                                          <li><a href="#">faqs</a></li>
+                                          <li><a href="#">contact us</a></li>
+                                          <li><a href="#">contact us</a></li>
+                                          <li><a href="#">UK</a></li>
+                                      </ul>
+                                  </div>
+                                  <div class="footer-col">
+                                      <h1> connect with us </h1>
+                                        <p> +254 720 000 000</p>
+                                            <p> +254 720 000 000</p>
+                                                <p>manunited@gmail.com</p>
+                                                    <div class="social-links">
+                                                        <a href="#"><img src="Gallery/fb.png" alt=""></a>
+                                                        <a href="#"><img src="Gallery/fb.png" alt=""></a>
+                                                        <a href="#"><img src="Gallery/fb.png" alt=""></a>
+                                                        <a href="#"><img src="Gallery/fb.png" alt=""></a>
+                                                        <a href="#"><img src="Gallery/fb.png" alt=""></a>
+                                                    </div>
+                                  </div>
+                              </div>
+                                <div class="mid-text">
+                                    <h2>download the App</h2>
+                                        <ul>
+                                            <li>
+                                                <a href="https://www.freepnglogos.com/pics/google-play-png-logo">
+                                                    <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/get-it-on-google-play-google-play-badge-png-logos-23.png"/></a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.freepnglogos.com/pics/app-store-png-logo">
+                                                    <img src="https://www.freepnglogos.com/uploads/app-store-logo-png/download-on-the-app-store-logo-png-23.png"/></a>
+                                            </li>
+                                        </ul>
                                 </div>
                         </section>
                 </div>
+
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Script for toggle menu part><>>>>>>>>><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
                 <script>
 
