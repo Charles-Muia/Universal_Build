@@ -15,6 +15,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <title> Navbar | Test</title>
 </head>
@@ -231,80 +232,85 @@
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<footer part><<>>>>>>>>><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
-                <div class="foot">
-                        <section class="footer-section">
-                              <div class="row">
-                                  <div class="footer-col">
-                                      <h4> Club </h4>
-                                            <ul>
-                                                <li><a href="#">home</a></li>
-                                                <li><a href="#">about us</a></li>
-                                                <li><a href="#">our work</a></li>
-                                                <li><a href="#">faqs</a></li>
-                                                <li><a href="#">contact us</a></li>
-                                            </ul>
-                                  </div>
-                                  <div class="footer-col">
-                                      <h4> Club </h4>
-                                      <ul>
-                                          <li><a href="#">home</a></li>
-                                          <li><a href="#">about us</a></li>
-                                          <li><a href="#">our work</a></li>
-                                          <li><a href="#">faqs</a></li>
-                                          <li><a href="#">contact us</a></li>
-                                      </ul>
-                                  </div>
-                                  <div class="footer-col">
-                                      <h4> Club </h4>
-                                      <ul>
-                                          <li><a href="#">home</a></li>
-                                          <li><a href="#">about us</a></li>
-                                          <li><a href="#">our work</a></li>
-                                          <li><a href="#">faqs</a></li>
-                                          <li><a href="#">contact us</a></li>
-                                      </ul>
-                                  </div>
-                                  <div class="footer-col">
-                                      <h4> Our Location </h4>
-                                      <ul>
-                                          <li><a href="#">home</a></li>
-                                          <li><a href="#">about us</a></li>
-                                          <li><a href="#">Manchester</a></li>
-                                          <li><a href="#">faqs</a></li>
-                                          <li><a href="#">contact us</a></li>
-                                          <li><a href="#">contact us</a></li>
-                                          <li><a href="#">UK</a></li>
-                                      </ul>
-                                  </div>
-                                  <div class="footer-col">
-                                      <h1> connect with us </h1>
-                                        <p> +254 720 000 000</p>
-                                            <p> +254 720 000 000</p>
-                                                <p>manunited@gmail.com</p>
-                                                    <div class="social-links">
-                                                        <a href="#"><img src="Gallery/fb.png" alt=""></a>
-                                                        <a href="#"><img src="Gallery/fb.png" alt=""></a>
-                                                        <a href="#"><img src="Gallery/fb.png" alt=""></a>
-                                                        <a href="#"><img src="Gallery/fb.png" alt=""></a>
-                                                        <a href="#"><img src="Gallery/fb.png" alt=""></a>
-                                                    </div>
-                                  </div>
-                              </div>
-                                <div class="mid-text">
-                                    <h2>download the App</h2>
-                                        <ul>
-                                            <li>
-                                                <a href="https://www.freepnglogos.com/pics/google-play-png-logo">
-                                                    <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/get-it-on-google-play-google-play-badge-png-logos-23.png"/></a>
-                                            </li>
-                                            <li>
-                                                <a href="https://www.freepnglogos.com/pics/app-store-png-logo">
-                                                    <img src="https://www.freepnglogos.com/uploads/app-store-logo-png/download-on-the-app-store-logo-png-23.png"/></a>
-                                            </li>
-                                        </ul>
-                                </div>
-                        </section>
-                </div>
+                <footer class="footer" >
+                            <div class="footer-container">
+                                          <div class="footer-row">
+                                              <div class="footer-col">
+                                                  <h4> company </h4>
+                                                        <ul>
+                                                            <li><a href="#">home</a></li>
+                                                            <li><a href="#">about us</a></li>
+                                                            <li><a href="#">our work</a></li>
+                                                            <li><a href="#">faqs</a></li>
+                                                            <li><a href="#">contact us</a></li>
+                                                            <li><a href="#">faqs</a></li>
+                                                            <li><a href="#">Terms & conditions</a></li>
+                                                        </ul>
+                                              </div>
+                                                  <div class="footer-col">
+                                                      <h4> activities </h4>
+                                                      <ul>
+                                                          <li><a href="#">home</a></li>
+                                                          <li><a href="#">about us</a></li>
+                                                          <li><a href="#">our work</a></li>
+                                                          <li><a href="#">faqs</a></li>
+                                                          <li><a href="#">contact us</a></li>
+                                                          <li><a href="#">faqs</a></li>
+                                                          <li><a href="#">Terms & conditions</a></li>
+                                                      </ul>
+                                                  </div>
+                                              <div class="footer-col">
+                                                      <h4> popular course </h4>
+                                                      <ul>
+                                                          <li><a href="#">home</a></li>
+                                                          <li><a href="#">about us</a></li>
+                                                          <li><a href="#">our work</a></li>
+                                                          <li><a href="#">faqs</a></li>
+                                                          <li><a href="#">contact us</a></li>
+                                                          <li><a href="#">faqs</a></li>
+                                                          <li><a href="#">Terms & conditions</a></li>
+                                                      </ul>
+                                              </div>
+                                                  <div class="footer-col">
+                                                      <h4> our location </h4>
+                                                      <ul>
+                                                          <li><a href="#">home</a></li>
+                                                          <li><a href="#">about us</a></li>
+                                                          <li><a href="#">Manchester</a></li>
+                                                          <li><a href="#">faqs</a></li>
+                                                          <li><a href="#">contact us</a></li>
+                                                          <li><a href="#">contact us</a></li>
+                                                          <li><a href="#">UK</a></li>
+                                                      </ul>
+                                                  </div>
+                                              <div class="footer-col">
+                                                  <h1> connect with us, </h1>
+                                                    <p> +254 720 000 000 </p>
+                                                        <p> +254 720 000 000 </p>
+                                                            <p> manunited@gmail.com </p>
+                                                                <div class="social-links">
+                                                                    <a href="#"><img src="Gallery/fb.png" alt=""></a>
+                                                                    <a href="#"><img src="Gallery/fb.png" alt=""></a>
+                                                                    <a href="#"><img src="Gallery/fb.png" alt=""></a>
+                                                                    <a href="#"><img src="Gallery/fb.png" alt=""></a>
+                                                                    <a href="#"><img src="Gallery/fb.png" alt=""></a>
+                                                                </div>
+                                              </div>
+                                          </div>
+                                            <div class="mid-text">
+                                                <h2>download the app</h2>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="https://www.freepnglogos.com/pics/google-play-png-logo">
+                                                                <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/get-it-on-google-play-google-play-badge-png-logos-23.png"/></a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="https://www.freepnglogos.com/pics/app-store-png-logo">
+                                                                <img src="https://www.freepnglogos.com/uploads/app-store-logo-png/download-on-the-app-store-logo-png-23.png"/></a>
+                                                        </li>
+                                                    </ul>
+                                            </div>
+                 </footer>
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Script for toggle menu part><>>>>>>>>><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
                 <script>
