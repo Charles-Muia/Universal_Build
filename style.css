@@ -110,8 +110,10 @@
         nav ul li a {
             text-decoration: none;
             text-transform: uppercase;
-            font-size: 15px;
+            font-size: 16px;
             color: #000000;
+            /*font-family: 'Oswald', sans-serif;*/
+            /*font-family: 'Unbounded', cursive;*/
             font-family: "Century Gothic";
             font-weight: bolder;
         }
@@ -885,8 +887,8 @@
 
         .footer {
             background-color: rgb(31,29,29);
+            padding: 80px 0;
         }
-
 
         .footer-container {
             line-height: 1.5;
@@ -902,6 +904,173 @@
         ul {
             list-style: none;
         }
+
+        .footer-col {
+            width: 25%;
+            padding: 0 30px;
+        }
+
+        .footer-col h4{
+            font-size: 20px;
+            color: #ffffff;
+            text-transform: capitalize;
+            margin-bottom: 15px;
+            font-weight: 500;
+            position: relative;
+            /*font-family: 'Oswald', sans-serif;*/
+            /*font-family: 'Unbounded', cursive;*/
+            /*font-family: "Century Gothic";*/
+        }
+
+        .footer-col ul li:not(:last-child) {
+            margin-bottom: 15px;
+        }
+
+        .footer-col ul li a {
+            font-size: 16px;
+            text-transform: capitalize;
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: 300;
+            color: #d3d3d3;
+            display: block;
+            transition: all 0.3s ease;
+        }
+
+        .footer-col ul li a:hover {
+            color: #ffffff;
+            padding-left: 10px;
+        }
+
+        .footer-col .social-links a {
+            display: inline-block;
+            height: 40px;
+            width: 40px;
+            background-color: rgba(255,255,255,0.2);
+            margin: 0 10px 10px 0;
+            text-align: center;
+            line-height: 40px;
+            border-radius: 50%;
+            color: #ffffff;
+            transition: all 0.3s ease;
+        }
+
+        .footer-col .social-links img {
+            height: 30px;
+            width: 30px;
+            text-align: center;
+            text-align: center;
+            margin: 5px 5px;
+        }
+
+        .footer .social-links a:hover {
+            color: #24262b;
+            background-color: #ffffff;
+        }
+
+        .footer-col h1 {
+            font-size: 20px;
+            color: #ffffff;
+            text-transform: capitalize;
+            margin-bottom: 15px;
+            font-weight: 500;
+            position: relative;
+            /*font-family: 'Oswald', sans-serif;*/
+            /*font-family: 'Unbounded', cursive;*/
+            /*font-family: "Century Gothic";*/
+        }
+
+        .footer-col p {
+            font-size: 16px;
+            margin-bottom: 10px;
+            /*color: #ffffff;*/
+            text-decoration: none;
+            font-weight: 300;
+            color: #bbbbbb;
+            display: inline-block;
+            transition: all 0.3s ease;
+        }
+
+        .footer-col li {
+            list-style: none;
+        }
+
+        .footer-col li a {
+            font-size: 16px;
+            text-transform: capitalize;
+            /*color: #ffffff;*/
+            text-decoration: none;
+            font-weight: 300;
+            color: #d3d3d3;
+            display: block;
+            transition: all 0.3s ease;
+        }
+
+        .footer-col li a:hover, p:hover {
+            color: #ffffff;
+            padding-left: 10px;
+        }
+
+        .footer-col li:not(:last-child) {
+            margin-bottom: 10px;
+        }
+
+        .footer-col {
+            font-size: 18px;
+            color: #ffffff;
+            text-transform: capitalize;
+            margin-top: 63px;
+            margin-bottom: 15px;
+            font-weight: 500;
+            position: relative;
+        }
+
+        .mid-text {
+            text-align: right;
+            margin-bottom: -45px;
+            margin-right: 81px;
+            margin-top: -160px;
+        }
+
+        .mid-text h2 {
+            font-size: 20px;
+            color: #ffffff;
+            text-transform: capitalize;
+            line-height: 23px;
+            margin-left: 0;
+            margin-bottom: -35px;
+            font-weight: 500;
+            position: relative;
+        }
+
+        .mid-text ul {
+            list-style: none;
+        }
+
+        .mid-text li {
+            display: inline-block;
+        }
+
+        .mid-text li a {
+            font-size: 5px;
+        }
+
+        .mid-text li a img {
+            width: 190px;
+            vertical-align: middle;
+            border: 0;
+
+        }
+        #apple {
+            width: 210px;
+            vertical-align: middle;
+            border: 0;
+        }
+
+        .footer-col .social-links a {
+            /*background-color: #ffffff;*/
+        }
+
 
 
 /*<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<CSS for the media query part><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->*/

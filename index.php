@@ -284,7 +284,7 @@
                                                       </ul>
                                                   </div>
                                               <div class="footer-col">
-                                                  <h1> connect with us, </h1>
+                                                  <h1> connect with us </h1>
                                                     <p> +254 720 000 000 </p>
                                                         <p> +254 720 000 000 </p>
                                                             <p> manunited@gmail.com </p>
@@ -301,12 +301,15 @@
                                                 <h2>download the app</h2>
                                                     <ul>
                                                         <li>
-                                                            <a href="https://www.freepnglogos.com/pics/google-play-png-logo">
-                                                                <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/get-it-on-google-play-google-play-badge-png-logos-23.png"/></a>
+<!--                                                            <a href="https://www.freepnglogos.com/pics/google-play-png-logo">-->
+<!--                                                                <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/get-it-on-google-play-google-play-badge-png-logos-23.png"/></a>-->
+
+                                                            <a href="https://www.freepnglogos.com/pics/google-logo-history-png">
+                                                                <img src="https://www.freepnglogos.com/uploads/itunes-logo/google-play-itunes-png-logo-4.png"/></a>
                                                         </li>
                                                         <li>
                                                             <a href="https://www.freepnglogos.com/pics/app-store-png-logo">
-                                                                <img src="https://www.freepnglogos.com/uploads/app-store-logo-png/download-on-the-app-store-logo-png-23.png"/></a>
+                                                                <img id="apple" src="https://www.freepnglogos.com/uploads/app-store-logo-png/available-the-app-store-badge-vector-11.png"/></a>
                                                         </li>
                                                     </ul>
                                             </div>
