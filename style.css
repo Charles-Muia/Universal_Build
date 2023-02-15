@@ -1026,11 +1026,11 @@
         }
 
         .mid-text {
-            display: none;
-            /*text-align: right;*/
-            /*margin-bottom: -45px;*/
-            /*margin-right: 81px;*/
-            /*margin-top: -160px;*/
+            /*display: none;*/
+            text-align: right;
+            margin-bottom: -45px;
+            margin-right: 81px;
+            margin-top: -160px;
         }
 
         .mid-text h2 {
