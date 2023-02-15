@@ -425,7 +425,7 @@
             }
 
             .top-bar span p {
-                font-size: 10px;
+                /*font-size: 10px;*/
             }
         }
 
@@ -783,7 +783,6 @@
             object-fit: cover;
             display: block;
             border-bottom-right-radius: .5rem;
-
         }
 
         .blog-post-img img::before {
@@ -882,7 +881,6 @@
             }
         }
 
-
 /*<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<CSS for the footer section part><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->*/
 
         .footer {
@@ -901,13 +899,8 @@
             flex-wrap: wrap;
         }
 
-        ul {
+        .footer-col ul {
             list-style: none;
-        }
-
-        .footer-col {
-            width: 25%;
-            padding: 0 30px;
         }
 
         .footer-col h4{
@@ -1006,7 +999,12 @@
             transition: all 0.3s ease;
         }
 
-        .footer-col li a:hover, p:hover {
+        .footer-col li a:hover{
+            color: #ffffff;
+            padding-left: 10px;
+        }
+
+        .footer-col p:hover {
             color: #ffffff;
             padding-left: 10px;
         }
@@ -1023,13 +1021,16 @@
             margin-bottom: 15px;
             font-weight: 500;
             position: relative;
+            width: 25%;
+            padding: 0 30px;
         }
 
         .mid-text {
-            text-align: right;
-            margin-bottom: -45px;
-            margin-right: 81px;
-            margin-top: -160px;
+            display: none;
+            /*text-align: right;*/
+            /*margin-bottom: -45px;*/
+            /*margin-right: 81px;*/
+            /*margin-top: -160px;*/
         }
 
         .mid-text h2 {
@@ -1059,8 +1060,8 @@
             width: 190px;
             vertical-align: middle;
             border: 0;
-
         }
+
         #apple {
             width: 210px;
             vertical-align: middle;
@@ -1076,14 +1077,63 @@
 /*<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<CSS for the media query part><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->*/
 
         @media (max-width: 757px) {
+
             .footer-col {
                 width: 50%;
                 margin-bottom: 30px;
             }
+
+            /*.mid-text {*/
+            /*    width: 100%;*/
+            /*    display: block;*/
+            /*    margin-top: 50px;*/
+            /*    text-align: left;*/
+            /*    margin-bottom: auto;*/
+            /*    margin-left: 30px;*/
+            /*}*/
+
+            /*.mid-text li a img {*/
+            /*    margin-top: 30px;*/
+            /*    margin-bottom: 5px;*/
+            /*    width: 120px;*/
+            /*}*/
+
+            /*#apple {*/
+            /*    margin-bottom: 5px;*/
+            /*    width: 120px;*/
+            /*}*/
+
+            /*.mid-text h2 {*/
+            /*    margin-bottom: 10px;*/
+            /*}*/
         }
 
         @media(max-width: 574px) {
             .footer-col {
                 width: 100%;
             }
+
+            /*.mid-text {*/
+            /*    width: 100%;*/
+            /*    display: block;*/
+            /*    margin-top: 50px;*/
+            /*    text-align: left;*/
+            /*    margin-bottom: auto;*/
+            /*    margin-left: 30px;*/
+            /*}*/
+
+            /*.mid-text li a img {*/
+            /*    margin-top: 30px;*/
+            /*    margin-bottom: 5px;*/
+            /*    width: 150px;*/
+            /*}*/
+
+            /*#apple {*/
+            /*    margin-bottom: 5px;*/
+            /*    width: 150px;*/
+            /*}*/
+
+            /*.mid-text h2 {*/
+            /*    margin-bottom: 10px;*/
+            /*}*/
         }
