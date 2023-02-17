@@ -5,6 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -284,14 +285,15 @@
                                                 </ul>
                                             </div>
                                             <div class="footer-col">
-                                                <H4>Company 6</H4>
-                                                <ul>
-                                                    <li><a href="#">home</a></li>
-                                                    <li><a href="#">about us</a></li>
-                                                    <li><a href="#">our work</a></li>
-                                                    <li><a href="#">faqs</a></li>
-                                                    <li><a href="#">contact us</a></li>
-                                                </ul>
+                                                <H4>follow us</H4>
+                                                    <div class="social-links">
+                                                        <a href=""><i class="fab fa-facebook-f"></i></a>
+                                                        <a href=""><i class="fab fa-twitter"></i></a>
+                                                        <a href=""><i class="fab fa-linkedin"></i></a>
+                                                        <a href=""><i class="fab fa-youtube"></i></a>
+                                                        <a href=""><i class="fab fa-whatsapp"></i></a>
+
+                                                    </div>
                                             </div>
                                 </div>
                         </div>
