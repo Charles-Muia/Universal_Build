@@ -15,6 +15,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
     <title> Navbar | Test</title>
 </head>
 <body>
@@ -229,7 +230,72 @@
                 <br><hr>
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<footer part><<>>>>>>>>><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
-
+                 <footer class="footer">
+                        <div class="footer-section">
+                                <div class="footer-row">
+                                            <div class="footer-col">
+                                                <H4>Company</H4>
+                                                    <ul>
+                                                        <li><a href="#">home</a></li>
+                                                        <li><a href="#">about us</a></li>
+                                                        <li><a href="#">our work</a></li>
+                                                        <li><a href="#">faqs</a></li>
+                                                        <li><a href="#">contact us</a></li>
+                                                    </ul>
+                                            </div>
+                                            <div class="footer-col">
+                                                <H4>Company 2</H4>
+                                                <ul>
+                                                    <li><a href="#">home</a></li>
+                                                    <li><a href="#">about us</a></li>
+                                                    <li><a href="#">our work</a></li>
+                                                    <li><a href="#">faqs</a></li>
+                                                    <li><a href="#">contact us</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="footer-col">
+                                                <H4>Company 3</H4>
+                                                <ul>
+                                                    <li><a href="#">home</a></li>
+                                                    <li><a href="#">about us</a></li>
+                                                    <li><a href="#">our work</a></li>
+                                                    <li><a href="#">faqs</a></li>
+                                                    <li><a href="#">contact us</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="footer-col">
+                                                <H4>Company 4</H4>
+                                                <ul>
+                                                    <li><a href="#">home</a></li>
+                                                    <li><a href="#">about us</a></li>
+                                                    <li><a href="#">our work</a></li>
+                                                    <li><a href="#">faqs</a></li>
+                                                    <li><a href="#">contact us</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="footer-col">
+                                                <H4>Company 5</H4>
+                                                <ul>
+                                                    <li><a href="#">home</a></li>
+                                                    <li><a href="#">about us</a></li>
+                                                    <li><a href="#">our work</a></li>
+                                                    <li><a href="#">faqs</a></li>
+                                                    <li><a href="#">contact us</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="footer-col">
+                                                <H4>Company 6</H4>
+                                                <ul>
+                                                    <li><a href="#">home</a></li>
+                                                    <li><a href="#">about us</a></li>
+                                                    <li><a href="#">our work</a></li>
+                                                    <li><a href="#">faqs</a></li>
+                                                    <li><a href="#">contact us</a></li>
+                                                </ul>
+                                            </div>
+                                </div>
+                        </div>
+                 </footer>
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Script for toggle menu part><>>>>>>>>><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
                 <script>
