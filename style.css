@@ -977,12 +977,17 @@
             align-items: center;
             justify-content: space-between;
             color: #d3d3d3;
-            padding: 0 50px;
+            padding: 0 70px;
             font-size: 17px;
         }
 
         .Credits:hover {
             color: #ffffff;
+        }
+
+        .foot-line {
+            margin: 55px;
+            border: 1px solid #ffffff;
         }
 
 /*<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<CSS for the media query footer part><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->*/
@@ -993,12 +998,8 @@
             margin-bottom: 30px;
             }
 
-        .Credits {
-            text-align: left;
-            }
-
             .Credits {
-                text-align: left;
+                /*text-align: left;*/
                 padding: 0 25px;
             }
         }
@@ -1009,7 +1010,7 @@
             }
 
             .Credits {
-                text-align: left;
+                /*text-align: left;*/
                 padding: 0 25px;
             }
         }

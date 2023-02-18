@@ -297,7 +297,9 @@
                                             </div>
                                 </div>
                         </div>
-                     <p class="Credits">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cum ducimus explicabo facere fuga labore, libero molestiae molestias nam praesentium quis repellendus, sapiente veniam! Culpa doloribus eligendi quibusdam rem veritatis.</p>
+                     <hr class="foot-line">
+                     <p class="Credits">Lorem ipsum dolor sit amet,&#9400;2023 consectetur adipisicing elit. At cum ducimus explicabo brfacere fuga labore,
+                         libero molestiae molestias nam praesentium quis repellendus, sapiente veniam! Culpa doloribus eligendi quibusdam rem veritatis.</p>
                  </footer>
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Script for toggle menu part><>>>>>>>>><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
