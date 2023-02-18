@@ -984,3 +984,32 @@
         .Credits:hover {
             color: #ffffff;
         }
+
+/*<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<CSS for the media query footer part><>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->*/
+
+        @media (max-width: 767px) {
+        .footer-col {
+            width: 50%;
+            margin-bottom: 30px;
+            }
+
+        .Credits {
+            text-align: left;
+            }
+
+            .Credits {
+                text-align: left;
+                padding: 0 25px;
+            }
+        }
+
+        @media (max-width: 574px) {
+            .footer-col {
+                width: 100%;
+            }
+
+            .Credits {
+                text-align: left;
+                padding: 0 25px;
+            }
+        }
