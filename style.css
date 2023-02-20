@@ -441,11 +441,11 @@
             background-position: center;
             background-repeat: no-repeat;
             border: 1px solid #ffffff;
-            padding-top: 20px;
-            padding-bottom: 20px;
-            padding-left: 20px;
-            padding-right: 20px;
-
+            padding: 20px 20px 20px 20px;
+            /*padding-top: 20px;*/
+            /*padding-bottom: 20px;*/
+            /*padding-left: 20px;*/
+            /*padding-right: 20px;*/
         }
 
         .container-section {
@@ -495,7 +495,6 @@
             line-height: 1.5rem;
             margin-bottom: 30px;
             margin-left: 40px;
-
         }
 
         .container-section .content .button  {
@@ -567,7 +566,7 @@
         }
 
         .social .yt:hover {
-            background-image: url("Gallery/yt.png");
+            background-image: url("Gallery/yt_1.png");
             background-position: center;
             width: 35px;
             height: 35px;
